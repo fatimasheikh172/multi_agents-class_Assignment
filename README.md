@@ -79,8 +79,4 @@ The system is designed to be very specific about its capabilities:
 The system uses Google's Gemini 2.0 Flash model through OpenAI's API format. Make sure you have:
 - A valid Gemini API key
 - Proper base URL configuration for Gemini API
-
-## craete by:
-
-# Fatima Sheikh
 "# multi_agents-class_Assignment" 
