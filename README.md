@@ -39,12 +39,7 @@ The system is designed to be very specific about its capabilities:
    cd Class_Assignmnet
    ```
 
-2. **Install dependencies**
-   ```bash
-   uv sync
-   ```
-
-3. **Set up environment variables**
+2. **Set up environment variables**
    Create a `.env` file with:
    ```
    GEMINI_API_KEY=your_gemini_api_key_here
